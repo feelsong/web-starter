@@ -8,3 +8,8 @@
 3. `bower install`
 
 4. `gulp serve`
+
+
+#ADDING JQUERY
+
+1. `bower add jquery`
