@@ -3,11 +3,13 @@
 1. `npm install -g gulp`
   OR `sudo npm install -g gulp`
 
-2. `npm install`
+2. `npm install -g bower`
 
-3. `bower install`
+3. `npm install`
 
-4. `gulp serve`
+4. `bower install`
+
+5. `gulp serve`
 
 
 #ADDING JQUERY
